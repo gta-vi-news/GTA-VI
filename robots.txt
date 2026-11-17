@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gta-vi-news.github.io/GTA-VI/sitemap.xml
